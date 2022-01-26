@@ -1,0 +1,25 @@
+1) "Apple vows to collect App Store commission even through alternative payment systems"
+
+Many countries and regions are forcing Apple to diversify ways for IOS users to download their apps. People have been confined to only one source, the App Store, which also 
+collects 30% commission from sales in the platform. Netherland's Authority for Consumers and Markets (ACM), ordered Apple to allow dating apps to have alternative systems for 
+payment that are outside the App Store. Apple appealed this order and claimed that this will breach user privacy and security. Russia’s Federal Antimonopoly Service (FAS) warned 
+Apple that clause 3.1 in the Apple Store Guidlines breaches Russian antimonopoly legislation. The clause prohibits IOS developers from informing users about possible purchases 
+that can be made outside the App Store. Apple now charged 15% commision from sales for most developers.
+
+Bibliography:
+Daws, Ryan. “Apple Vows to Collect App Store Commission Even through Alternative Payment Systems.” Developer 
+  Tech News, TechForge Media, 18 Jan. 2022, https://developer-tech.com/news/2022/jan/18/apple-vows-collect-app-
+  store-commission-alternative-payment-systems/. 
+  
+  
+  
+ 2) "App Annie: Users downloaded 230B apps in 2021, spent 3.8T hours using them"
+ 
+ App Annie, an analytics software, reported an astonishing figure about the mobile app ecosystem. In 2021, there have been 230 billion new app downloads and 3.8 trillion hours
+ spent on mobile apps. Users have spent $170 billion on Apple's App Store, each user spent on average 4.8 hours daily on mobile apps, and mobile app ads spend was $295 Billion.
+ To give some perspective, every minute, over $320,000 was spent on all app stores, which was an increase by 20% from 2020. 
+ 
+ Bibliography:
+ Daws, Ryan. “App Annie: Users Downloaded 230b Apps in 2021, Spent 3.8T Hours Using Them.” Developer Tech News,
+  TechForge Media, 12 Jan. 2022, https://developer-tech.com/news/2022/jan/12/app-annie-users-downloaded-230b-
+  apps-2021-spent-3-8t-hours-using-them/. 
