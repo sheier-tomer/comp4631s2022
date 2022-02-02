@@ -1,0 +1,17 @@
+Tesla, a very well knowed electric car company, is now leaning into a completely different industry. Tesla is interested in the smartphone market. Rumored to be called the 
+"Model Pi," it is their attempt to become a player in the battle which is already fought between Apple and Android. The phone is rumered to cost between $800 - $1200, around the 
+price of a high end smartphone right now. Model Pi will come with many features: satellite internet, solar charging, vehicle control, astrophotography, crypto mining, and 
+neuralink support. It will come with 1-2TB of storage, 16GB of RAM, and have a 6.5 inch display. 
+
+@misc{fisher_2022, title={Tesla Phone: News, price, release date, Specs, and rumors}, url=
+ {https://www.lifewire.com/tesla-phone-5212799}, journal={Lifewire}, publisher={Lifewire}, author={Fisher, Tim},
+ year={2022}, month={Jan}} 
+ 
+ 
+ Neuralink is one of several companies started by Elon Musk. They are working on a machine that is implanted in the brain that is able to communicate with technology, like a 
+ smartphone, computer, game console, vehicle, etc. The machine, called the "Neuralink," has multiple key components: the link, "Sealed, implanted device that processes, stimulates,
+ and transmits neural signals." The Neural threads, "Each small and flexible thread contains many electrodes for detecting neural signals." And the charger, "Compact inductive 
+ charger wirelessly connects to the implant to charge the battery from the outside.
+ 
+ @misc{studio, title={Home}, url={https://neuralink.com/}, journal={Neuralink}, author={Studio, Play}} 
+ 
