@@ -1,0 +1,21 @@
+Tesla racalled 53,822 vehicles with full self-driving software due defects. The AI was not working as intended, for example, when the car encounters a stop sign, instead of making
+a full stop, it does a rolling stop. The self driving software also had occasional difficulties detecting other vehicles, cyclists, and pedestrians. Fortunatly, there have been
+no recorded collisions, injuries or fatalities related to the self-driving feature.
+
+@misc{mcfarland_2022, title={Tesla recalls all 53,822 vehicles with its 'full self-driving' feature}, url=
+ {https://www.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html}, journal={CNN}, publisher={Cable News
+ Network}, author={McFarland, Matt}, year={2022}, month={Feb}, abstract={This is article is important because 
+ it shows that we are further than expected from a having full self
+ driving cars}}
+ 
+ The metaverse has become mainstream ever since it was announced by Meta, a company that was once called Facebook, which is  switching some of its focus away from social media
+ and into virtual and augmented reality. One must understand what these technologies are and their differences. Virtual reality is where a completly virtual world is generated, 
+ with no influence from the real world. However, augmented reality combines aspects from the physical world and some virtual aspects as well. For example, Zoom is a very popular
+ video application to conduct meetings in. If zoom had an augmented reality feature, instead of the users being seen on a screen, they could be seen in the same room as if it was
+ an in-person meeting.
+ 
+ 
+ @misc{ravenscraft_2021, title={What is the metaverse, exactly?}, url={https://www.wired.com/story/what-is-the-
+  metaverse/}, journal={Wired}, publisher={Conde Nast}, author={Ravenscraft, Eric}, year={2021}, month={Nov}, 
+  abstract= {The Metaverse is an important topic to learn about because our world is becoming more digital and 
+  virtual reality is becoming more accessible.}}
