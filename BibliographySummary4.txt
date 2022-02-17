@@ -1,0 +1,21 @@
+Samsung Galaxy S22 Ultra Review: This Is Your Galaxy Note Now:
+
+Samsung Galaxy S22 is Samsungs newest flagship phone of 2022. Priced at $1200, it has a 6.6 inch screen. about the same size of the iPhone 13. It has an electronic pen like the 
+Samsung Note. It has a 108 mega-pixel sensor. However, it does not push any boundaries from the last get Samsung Galaxy S21. The two phones are nearely identical 
+
+ @misc{eadicicco, title={Samsung Galaxy S22 Ultra Review: This is your galaxy note now}, url=
+ {https://www.cnet.com/tech/mobile/samsung-galaxy-s22-ultra-review/}, journal={CNET}, author={Eadicicco,
+ Lisa}, abstract={this is important because it is a device that is rapidly growing in popularity}} 
+ 
+ 
+ 
+ Spotify is acquiring two major podcast tech platforms
+ 
+ Spotify is buying Chartable and Podsights, two prominant podcast services. Spotify wants to use Podsight's technology outside of podcasting and is gping to use their ad 
+ technology. Charitable is the acquisition that will be used for podcasting however. They want to own their technology called SmartLinks. “These tools will make it easier for 
+ publishers to turn audience insights into action and expand their listenership while ultimately growing their businesses,” Spotify writes.
+ 
+  @misc{carman_2022, title={Spotify is acquiring two major podcast Tech Platforms}, url=
+  {https://www.theverge.com/2022/2/16/22937826/spotify-podsights-chartable-acquisitions-podcast-marketing-
+  platforms}, journal={The Verge}, publisher={The Verge}, author={Carman, Ashley}, year={2022}, month={Feb}, abstract={This is important because Spotify is another company making
+  large acquisitions to beat competitors.} 
