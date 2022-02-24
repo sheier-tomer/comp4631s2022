@@ -1,0 +1,20 @@
+Study: UK firms most likely to pay ransomware hackers:
+
+82% of Bristish firms which have been victims of cyberattacks have paid the hackers in order to get back their data. Since the global average for companies paying the hackers that
+stole their data being around 58%, this makes the UK the most likely country to pay cyber-criminals. In 2021, about 91% of phishing attacks have been successful in the UK.
+
+@misc{bbc news_2022, title={Study: UK firms most likely to pay ransomware hackers}, url=
+ {https://www.bbc.com/news/business-60478725}, journal={BBC News}, publisher={BBC}, year={2022}, month=
+ {Feb}, abstract = {This is important because it ransomware is a major factor companies need to deal with these days, especially companies like apple and google which take data
+ from their users.}} 
+ 
+ Truth Social: Banned from Twitter, Trump returns with a new platform:
+ 
+ Trump has released a new solial medua app called Truth Social. It is very similar to twitter but claims that it has free speech. However, the layout of the app is almost the
+ same. Truth Social claims itslef as a"'big tent' social-media platform that encourages an open, free and honest global conversation without discriminating against political 
+ ideology". We will see if it becomes something popular. 
+ 
+@misc{cabral_2022, title={Truth social: Banned from Twitter, Trump returns with a new platform}, url=
+  {https://www.bbc.com/news/technology-60419008}, journal={BBC News}, publisher={BBC}, author={Cabral,
+  James Clayton and Sam}, year={2022}, month={Feb}, abstract = {This is important because it is interesting to see how popular this app gets.}} 
+ 
