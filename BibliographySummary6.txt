@@ -1,0 +1,23 @@
+Apple's Next Launch Set for March 8 with iPhone SE, iPads, iOS 15.4:
+
+Apple's next reveal event is set for March 8, at 10 am PT. They are expected to introduce iPhone SE with a bigger screen, upgraded iPads with faster chips, and possibly even 
+upgraded iMacs. It will be a virtual event on Apple's website. One needs a virtual invitation to enter the event.
+
+ @misc{sherr_2022, title={Apple's next launch set for March 8 with iphone SE, iPads, IOS 15.4}, url=
+ {https://www.cnet.com/tech/mobile/apples-next-launch-set-for-march-8-with-iphone-se-ipads-and-ios-15-4-on-tap/},
+ journal={CNET}, publisher={CNET}, author={Sherr, Ian}, year={2022}, month={Mar}, abstract={this is important because Apple's product reveal events are always one of the most
+ watch events. They also let mobile app developers get an idea of what to expect harware-wise}} 
+ 
+ 
+ Russia's Ukraine War Raises Specter of an Online Splinternet:
+ 
+ Russia's invasion of Ukraine has created cracks in the world's foundation of the internet. Russia has also exercised the power of its Sovereign Internet Law, designed to help 
+ the Russian internet survive any Western attempt to cut it off, but it also centralizes state network control so that the government can take actions like censoring sites or 
+ hobbling social networks. "splinternet," the name of a phenomenon of the increasing fragmentation of the internet, shows differences in how countries treat both low-level
+ technology that shuttles data around the planet and higher-level applications, such as search engines and messaging apps. If the splinternet trend continues, the internet will 
+ be replaced by "a bunch of national islands that are sometimes connected to other places," said Andrew Sullivan,
+ 
+  @misc{shankland_2022, title={Russia's Ukraine War heightens worries that a splinternet could replace today's seamless internet}, url=
+  {https://www.cnet.com/news/russias-ukraine-war-raises-specter-of-an-online-splinternet/}, journal=
+  {CNET}, publisher={CNET}, author={Shankland, Stephen}, year={2022}, month={Mar}, abstract={this is important because internet censorship does not happen only in Russia, but in
+  almost every country. What if soon, every country has its own splinternet? Are we going down that route?}} 
