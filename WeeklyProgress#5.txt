@@ -1,0 +1,7 @@
+Week #5 
+3/2/2022
+
+Group: Tomer Sheier, Muhmmadazhar Khalifa
+
+This week we could not make any progress due to both of us having multiple mid-terms and projects. 
+For next week, we will add a working search bar that allows the user to type in a school instead of selecting one.
