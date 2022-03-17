@@ -1,0 +1,22 @@
+3D Printing Gives New Osprey Backpacks Ventilated Padding -- for $700:
+
+ A backpack company called Osprey Unltd are developing a backpack through 3D printing technology. Their new line of backpacks cost $700 each. They are more
+ ventilated and lightweight than an average backpack. Unltd backpacks are made for hikers carrying heavy loads. These backpacks are showing the vast major
+ benefit of 3D printing technology and the usefulness of it becoming more mainstream.
+
+ @misc{shankland_2022, title={3D printing gives new osprey backpacks ventilated padding -- for $700}, url=
+ {https://www.cnet.com/tech/computing/3d-printing-gives-this-new-osprey-backpack-soft-ventilated-padding/},
+ journal={CNET}, publisher={CNET}, author={Shankland, Stephen}, year={2022}, month={Mar}, abstract={This article is important because it shows how useful
+ 3D technology is and for our future} 
+ 
+ 
+ Netflix Testing New Feature to Combat Password Sharing:
+ 
+ Netflix is planning combating account sharing by adding sub accounts to people's profiles. This will only combat against people sharing their account with
+ people that are not in the same household. For around $3, users are able to add 2 additional subaccounts to their Netflix account. Personally, I do not
+ think this will stop anyone from sharing accounts, this just seems like a cash grab by Netflix from some customers. 
+ 
+  @misc{avery_2022, title={Netflix testing new feature to combat password sharing}, url=
+  {https://www.cnet.com/tech/services-and-software/netflix-testing-new-feature-to-combat-password-sharing/},
+  journal={CNET}, publisher={CNET}, author={Avery, Dan}, year={2022}, month={Mar}, abstract={this article is important becuase it is interetsing to see how
+  massive companies like Netflix try to combat account sharing, or if it even is worth combating it at all.} 
