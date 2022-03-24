@@ -1,0 +1,22 @@
+Apple Opens Digital Driver's License and State ID Program, Starting With Arizona:
+
+Apple is on its way to replace real world physical wallets even more by introducing digital drivers license and state ID program in the Apple wallet. This will be beta
+tested in Arizona. Apple says the new state ID will work just like a physical one, including at the TSA checkpoint at Phoenix Sky Harbor International Airport to start.
+Apple says its program relies on the same "secure element" hardware it's designed for storing credit cards, biometrics and other sensitive data.
+
+ @misc{sherr_2022, title={Apple opens digital driver's license and State ID program, starting with Arizona}, url=
+ {https://www.cnet.com/tech/mobile/apple-opens-digital-drivers-license-and-state-id-program-starting-with-
+ arizona/}, journal={CNET}, publisher={CNET}, author={Sherr, Ian}, year={2022}, month={Mar}, abstract={This topic is important because it is another way for mobile 
+ devices to be more important for our daily lives}} 
+ 
+ Google will test letting Android developers use their own billing systems, starting with Spotify:
+ 
+ Google is introducing a program to allow thrid party payments to be made on applications. These payments will be done outside of the Google Play Store. Spotify will be 
+ the first and will use both Google Play’s billing system and its own. “This pilot will help us to increase our understanding of whether and how user choice billing works
+ for users in different countries and for developers of different sizes and categories,” Google’s Sameer Samat. We will see how Apple responds to this move. Maybe Apple
+ will do it soon as well.
+ 
+  @misc{peters_2022, title={Google will test letting Android developers use their own billing systems, starting with Spotify}, url=
+  {https://www.theverge.com/2022/3/23/22993417/google-pilot-test-android-alternate-billing-systems-
+  spotify}, journal={The Verge}, publisher={The Verge}, author={Peters, Jay}, year={2022}, month={Mar}, abstract{This is an important topic because there has been a 
+  conversation for a while about applications being allowed to have their own payment systems, Google is the first to step up}}
