@@ -1,0 +1,28 @@
+Apple Begins Allowing Some Apps Signups to Link Outside App Store:
+
+Apple has been forced to settle with Japan's fair trade commission to will allow "reader" apps like streaming services more leeway in how they sign up 
+customers. Apple told its developers that they can now allow external links for account signup for their applications, being outside of the App Store. 
+Netflix and Spotify have been in many conflicts with apple about their signup systems being only through the App Store, committing to their mission of 
+tight control of apps in the store. We have been seeing many companies in conflict with apple due to their tight control, and we have seen Apple losing the
+fight and backtracking. 
+
+ @misc{sherr_2022, title={Apple begins allowing some apps signups to link outside App Store}, url=
+ {https://www.cnet.com/tech/mobile/apple-begins-allowing-some-apps-signups-to-link-outside-app-store/}, journal=
+ {CNET}, publisher={CNET}, author={Sherr, Ian}, year={2022}, month={Mar}, abstract={This is important because it is another piece of control Apple is 
+ giving up/losing over their App Store.} 
+ 
+ 
+ A New Law Would Force Facebook Messenger and Apple iMessage to Talk to Each Other. Here's How:
+ 
+ A new European Union legislation is aiming at apps like  WhatsApp, Facebook Messenger and Apple's iMessage to let their users communicate with one another.
+ The legislation is called the Digital Markets Act, whichs calls on the major apps like WhatsApp, Facebook Messenger and Apple's iMessage, and wants them 
+ to open up and operate with smallar apps like signal, discord, and telegram. The requirements in the legislated are as follows: Allowing third-party 
+ services (like messenger apps) to interact with gatekeeper systems, Letting users access services they may've acquired outside of a gatekeeper platform,
+ and enabling users to uninstall any pre-installed software or apps. There are also many more requirments.
+ 
+  @misc{avery_2022, title={This new law would force Facebook Messenger and Apple Imessage to Talk To Each Other}, url=
+  {https://www.cnet.com/tech/services-and-software/a-new-law-would-force-facebook-messenger-and-apple-
+  imessage-to-talk-to-each-other-heres-how/}, journal={CNET}, publisher={CNET}, author={Avery, Dan}, year=
+  {2022}, month={Mar}, abstract={This is important because it is another example of the EU trying to limit the power of large tech companies like Apple, 
+  Google, and Facebook.} 
+ 
