@@ -9,4 +9,4 @@ the development process.
 
 App Instructions:
 When launching the app, the user is greeted with a log in or sign up page. If login is pressed, it will take the user to the main page. If sign up is 
-pressed, the user is taken through the sign up process. Account setup does not work yet, we need to setup firebase for that.
+pressed, the user is taken through the sign up process. Everything else about the app is self explanatory. Account setup does not work yet, we need to setup firebase for that.
